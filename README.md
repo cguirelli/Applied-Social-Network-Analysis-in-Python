@@ -1,1 +1,1 @@
-Assignments from the COursera course Applied Social Network Analysis in Python
+Assignments from the Coursera course Applied Social Network Analysis in Python
